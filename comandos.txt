@@ -1,10 +1,33 @@
 COMANDOS:
 
+Criando repositorio ou adicionando dados
 1- git ini --> (cria o repositorio em sua maquina)
 
 2- git status --> (mostrar o estado em que se encontra os arquivo do projeto na branch)
 
-3- git add "arquivo que vai adicionar"
+3- git add "arquivo que vai adicionar" --> (faz o empacotamento dos arquivos para poder enviar para o repositorio)
+        nota: em caso de enviar varios arquivos de uma so vez basta utilizar (.) no final
+        que ele ira considerar todos os arquivois. EX: "git add ."
+
+4- git commit "arquivo" -m "menssagem de commit que você quer aplicar" --> ()
+        nota: este primeiro comando é para enviar um arquivo em especifico, para 
+        enviar varios ao mesmo tempo use, EX: " git commit -a -m "menssagem".
+
+        nota: a flag "-a" refere a TODOS a flag "-m" refere-se a mensagem.
+        A menssagem deve estar entre aspas por se tratar de uma string.
+
+5- git branch -M main --> (cria um o que pode se dizer que é uma ramificaçào ou raiz principal do repositorio)
+
+6- git remote add origen "caminho do seu repositorio no github" --> (criar um ponto de origem do projeto)
+
+7- git push -u origin main --> (vai enviar todo o c;odigo que foi empacotamento e rotulado para o ponto raiz do seu projeto no github)
+
+
+ORIGENS
+
+8- git remote -v --> (exibe a seu branch principal)
+
+9- git remote rm origin --> (remove a brench de origem do seu repositorio)
 
 
 SITUAÇÕES :
@@ -12,3 +35,6 @@ SITUAÇÕES :
 pasta na sua maaquina. De pois de criar o repositorio em sua conta do github crie uma pasta vazia, 
 acesse essa pasta via terminal e execute o comando " git init " para sincronizar o repositorio de 
 sua maquina com o repositorio de sua conta do github. Ágoro você já pode adicionar os arquivo que deseja manipular.
+
+
+ 
