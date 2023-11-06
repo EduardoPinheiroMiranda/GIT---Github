@@ -1,0 +1,14 @@
+COMANDOS:
+
+1- git ini --> (cria o repositorio em sua maquina)
+
+2- git status --> (mostrar o estado em que se encontra os arquivo do projeto na branch)
+
+3- git add "arquivo que vai adicionar"
+
+
+SITUAÇÕES :
+1- Criar um repositorio --> o primeiro passso é criar o repositorio no GITHUB  antes de criar quaquer 
+pasta na sua maaquina. De pois de criar o repositorio em sua conta do github crie uma pasta vazia, 
+acesse essa pasta via terminal e execute o comando " git init " para sincronizar o repositorio de 
+sua maquina com o repositorio de sua conta do github. Ágoro você já pode adicionar os arquivo que deseja manipular.
