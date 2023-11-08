@@ -21,13 +21,19 @@ Criando repositorio ou adicionando dados
 6- git remote add origen "caminho do seu repositorio no github" --> (criar um ponto de origem do projeto)
 
 7- git push -u origin main --> (vai enviar todo o c;odigo que foi empacotamento e rotulado para o ponto raiz do seu projeto no github)
-
+        nota: depois de executar este comando a primeira vez  você só ira precisar
+        usar o "git push".
 
 ORIGENS
 
 8- git remote -v --> (exibe a seu branch principal)
 
 9- git remote rm origin --> (remove a brench de origem do seu repositorio)
+
+
+10- git pull --> faz um a busca no Github por novos arquivos ou alterações no código do projeto
+                        e traz para seu repositorio local.
+
 
 
 SITUAÇÕES :
