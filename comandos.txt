@@ -34,13 +34,15 @@ ORIGENS
 10- git pull --> faz um a busca no Github por novos arquivos ou alterações no código do projeto
                         e traz para seu repositorio local.
 
-11- git glone "url do repo que vai ser clonado" . --> (clona o repositorio do link http, o ponto final é para clonar no diretorio atual)
+11- git clone "url do repo sem aspas" . --> (clona o repositorio do link http, o ponto final é para clonar no diretorio atual)
 
 12- git rm "nome do arquivo/pasta" --> (Apaga o arquivo ou diretorio do repositorio)
         nota: depois de apagar você deve commitar o delet feito e mandar para main, 
         evitando que outros possa usar um arquivo descartado. Depois faça um pull para buscar por alterações 
         do código.
 
+13- git log  --> (Mostra um historico de commits feito ate o menebto da solicitação do log,
+                use para sar se encontrar no código).                           
 
 
 
