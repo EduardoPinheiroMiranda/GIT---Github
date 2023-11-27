@@ -42,7 +42,7 @@ ORIGENS
         do código.
 
 13- git log  --> (Mostra um historico de commits feito ate o menebto da solicitação do log,
-                use para sar se encontrar no código).                           
+                use para sar se encontrar no código) .                           
 
 
 
