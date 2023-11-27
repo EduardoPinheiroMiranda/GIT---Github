@@ -44,7 +44,11 @@ ORIGENS
 13- git log  --> (Mostra um historico de commits feito ate o menebto da solicitação do log,
                 use para sar se encontrar no código) .                           
 
+14- git mv "nome do arquivo + caminho com o nome do arquivo no final" --> (move os arquivo para onde quiser sem perder a referencia no git, apenas
+                renomeando a referencia que já tem).
+                NOTA: serve para renomear arquivos também.   
 
+15- git checkout "no do arquivo " --> (reinicia o arquivo com base no ultimo ponto de checagem)
 
 SITUAÇÕES :
 1- Criar um repositorio --> o primeiro passso é criar o repositorio no GITHUB  antes de criar quaquer 
