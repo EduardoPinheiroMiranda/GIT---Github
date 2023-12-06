@@ -12,3 +12,7 @@ COMANDOS:
 5- git stash list --> mostra a lista de alterações gardadas.
 
 6- git stash show -p numero_da_lista --> mosta quais as alteraçoes que foram feitas no arquivo.
+
+7- git stash clear --> elimina todos os stash guardados
+
+8- git stash drop numero_da_lista --> apaga uma lista especifica
