@@ -1,0 +1,11 @@
+O que um branch ?
+
+
+COMANDOS: 
+1- git breach --> (lista todos os branch criados)
+2- git branch nome_branch --> (se colocar um nopme no fim ele cria um novo branch)
+3- git brench -d nodo branch --> ( apaga uma branch crtiada errada, no lugar do -d pode usar --delite também)
+
+4- git checkout -b nome_branch --> (Alterna entre branch)
+        NOTA: quando muida de branch você leva as atualizaçoes de um para o outro.
+f
