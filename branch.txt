@@ -8,4 +8,7 @@ COMANDOS:
 
 4- git checkout -b nome_branch --> (Alterna entre branch)
         NOTA: quando muida de branch você leva as atualizaçoes de um para o outro.
-f
+
+5- git stash list --> mostra a lista de alterações gardadas.
+
+6- git stash show -p numero_da_lista --> mosta quais as alteraçoes que foram feitas no arquivo.
