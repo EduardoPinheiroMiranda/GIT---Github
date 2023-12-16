@@ -24,6 +24,7 @@ Criando repositorio ou adicionando dados
         nota: depois de executar este comando a primeira vez  você só ira precisar
         usar o "git push".
 
+
 ORIGENS
 
 8- git remote -v --> (exibe a seu branch principal)
