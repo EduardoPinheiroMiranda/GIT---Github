@@ -48,7 +48,9 @@ ORIGENS
                 renomeando a referencia que já tem).
                 NOTA: serve para renomear arquivos também.   
 
+
 15- git checkout "no do arquivo " --> (reinicia o arquivo com base no ultimo ponto de checagem)
+
 
 SITUAÇÕES :
 1- Criar um repositorio --> o primeiro passso é criar o repositorio no GITHUB  antes de criar quaquer 
