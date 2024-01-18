@@ -1,0 +1,18 @@
+O que um branch ?
+
+
+COMANDOS: 
+1- git breach --> (lista todos os branch criados)
+2- git branch nome_branch --> (se colocar um nopme no fim ele cria um novo branch)
+3- git brench -d nodo branch --> ( apaga uma branch crtiada errada, no lugar do -d pode usar --delite também)
+
+4- git checkout -b nome_branch --> (Alterna entre branch)
+        NOTA: quando muida de branch você leva as atualizaçoes de um para o outro.
+
+5- git stash list --> mostra a lista de alterações gardadas.
+
+6- git stash show -p numero_da_lista --> mosta quais as alteraçoes que foram feitas no arquivo.
+
+7- git stash clear --> elimina todos os stash guardados
+
+8- git stash drop numero_da_lista --> apaga uma lista especifica

@@ -18,11 +18,12 @@ Criando repositorio ou adicionando dados
 
 5- git branch -M main --> (cria um o que pode se dizer que é uma ramificaçào ou raiz principal do repositorio)
 
-6- git remote add origen "caminho do seu repositorio no github" --> (criar um ponto de origem do projeto)
+6- git remote add origin "caminho do seu repositorio no github" --> (criar um ponto de origem do projeto)
 
 7- git push -u origin main --> (vai enviar todo o código que foi empacotamento e rotulado para o ponto raiz do seu projeto no github)
         nota: depois de executar este comando a primeira vez  você só ira precisar
         usar o "git push".
+
 
 ORIGENS
 
@@ -49,6 +50,8 @@ ORIGENS
                 NOTA: serve para renomear arquivos também.   
 
 15- git checkout "no do arquivo " --> (reinicia o arquivo com base no ultimo ponto de checagem)
+
+16- git reset --hard origen/main --> (apaga todos os commit e registros, voltando sua branch para o inicio, ou seja, nada)
 
 SITUAÇÕES :
 1- Criar um repositorio --> o primeiro passso é criar o repositorio no GITHUB  antes de criar quaquer 
